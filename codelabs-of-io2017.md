@@ -16,7 +16,7 @@ Android
 - [ ] [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html)
 - [ ] [Artistic style transfer &amp; other advanced image editing](https://codelabs.developers.google.com/codelabs/android-style-transfer/index.html)
 - [ ] [Background Location Updates in Android &quot;O&quot;](https://codelabs.developers.google.com/codelabs/background-location-updates-android-o/index.html)
-- [ ] [Build Your First Android App](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html) 
+- [x] [Build Your First Android App](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html) 
 - [ ] [Build your First Android Instant App](https://codelabs.developers.google.com/codelabs/android-instant-apps/index.html) (55min)
 - [ ] [Building Beautiful Apps Faster with Material Components on Android](https://codelabs.developers.google.com/codelabs/mdc-android/index.html) (16min)
 - [ ] [Building Beautiful Apps Faster with Material Components on Android (Kotlin)](https://codelabs.developers.google.com/codelabs/mdc-android-kotlin/index.html) (16min)
